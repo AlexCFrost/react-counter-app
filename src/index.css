@@ -1,0 +1,39 @@
+#container {
+  text-align: center;
+}
+
+#title {
+  font-size: 4vw;
+  color: rgb(4, 4, 82);
+}
+
+#countnum {
+  font-size: 36px;
+  font-weight: bold;
+  margin-bottom: 20px;
+  color: rgb(4, 4, 82);
+}
+
+#Button1 {
+  margin: 10px;
+  padding: 13px;
+  color: white;
+  background-color: rgb(4, 4, 82);
+  border-radius: 5px;
+}
+
+#Button2 {
+  margin: 10px;
+  padding: 13px;
+  color: white;
+  background-color: rgb(4, 4, 82);
+  border-radius: 5px;
+}
+
+#Button3 {
+  margin: 10px;
+  padding: 13px;
+  color: white;
+  background-color: rgb(4, 4, 82);
+  border-radius: 5px;
+}
